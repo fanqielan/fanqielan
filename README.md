@@ -1,4 +1,4 @@
-Hi there 👋:tomato:, I'm **Fanqie Lan**.
+Hi there 👋, I'm **Fanqie Lan** :tomato:.
 
 - From Zhejiang Province, China :cn:
 - Working for happinese develop :lollipop:
