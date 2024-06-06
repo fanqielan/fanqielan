@@ -1,16 +1,22 @@
-## Hi there 👋
+Hi there 👋:tomato:, I'm **Fanqie Lan**.
 
-<!--
-**fanqielan/fanqielan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- From Zhejiang Province, China :cn:
+- Working for happinese develop :lollipop:
 
-Here are some ideas to get you started:
+Here are some fantastic things. Maybe like a photo, food, sports et al.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  $$ Life(me) = Eat(x) + Working(x) + Travel(x) + ... + Sleep(x)  + Love(x). $$
+- 阳台女孩👧🏻.jpg
+
+<img src="https://img01.anheyu.com/useruploads/110/2023/03/14/6410113caabf1.webp">
+
+Now, it is clear why this is for me. Let’s do something interesting next.
+
+<details>
+<summary>Afterword.</summary>
+<p></p>
+<p>Perhaps I didn’t know these things at that time.</p>
+
+<p>在过去的时间里，有很多事情已经被遗忘了，现在还记得的事情或许才是最终需要保留的—— 陈同学</p>
+
+</details>
