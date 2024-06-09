@@ -17,6 +17,6 @@ Now, it is clear why this is for me. Let’s do something interesting next.
 <p></p>
 <p>Perhaps I didn’t know these things at that time.</p>
 
-<p>在过去的时间里，有很多事情已经被遗忘了，现在还记得的事情或许才是最终需要保留的—— 陈同学</p>
+<p>在过去的时间里，有很多事情已经被遗忘了，现在还记得的事情或许才是最终需要保留的 —— 陈同学</p>
 
 </details>
